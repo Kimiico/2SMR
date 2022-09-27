@@ -1,0 +1,33 @@
+
+
+
+La función alert () se puede usar para mostrar un mensaje en la pantalla
+
+Ejemplo
+
+let nombre="Javier"
+alert("Bienvenido " + nombre);
+
+
+
+
+
+
+Se parece al alert pero puedes escribir algo 
+
+Ejemplo de prompt
+
+let valor = prompt("Message", "Default value");  //with a default value (separated with a comma from the message)
+
+valor = prompt ("Message"); //without a default value
+
+
+para asegurarse de si quieres continuar se usa confirm
+
+let elección = confirm("¿Desea continuar?");
+alert("Has elegido " + elección);
+
+
+para que aparezaca un mensaje en la consola es 
+
+ console.log( "mensaje" );

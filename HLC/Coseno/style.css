@@ -1,0 +1,43 @@
+* {
+  font-family: 'Century Gothic', sans-serif;
+}
+
+
+body{
+  margin: 30px;
+  border: 2px;
+  box-shadow: 15px 15px 15px white;
+  border-style: solid;
+  padding: 25px;
+}
+
+code{
+	font-family: 'Century Gothic';
+	background-color: #adadff;
+}
+
+h2,h3{
+    font-weight: normal;
+    border: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+}
+h1{
+    font-weight: normal;
+    
+}
+
+.formatoDelResultado{
+	display:flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.formatoDelResultado > div{
+	border: 1px;
+	border-style: solid;
+	text-align: center;
+	width:30%;
+	margin: 10px;
+	
+}

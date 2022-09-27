@@ -1,0 +1,29 @@
+
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: white;
+  color: #3a3a3a;
+}
+
+#contenido{
+    margin: 50px;
+	border: 1px solid black;
+	width: 320px;
+	text-align: center;
+	padding: 10px;
+	font-size: 11pt;
+}
+
+
+h1{
+  font-weight: normal;
+  font-family: 'Carter One', cursive;
+  font-size: 32pt;
+  color: #3a3a3a;
+}
+
+#barcode{
+  font-family: 'Libre Barcode 39 Text', cursive;
+  font-size: 3em;
+}
